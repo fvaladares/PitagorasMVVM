@@ -13,8 +13,7 @@ import br.com.fvaladares.app.pitagorasmvvm.ui.fragment.ListaAlunosAdapter.ViewHo
 class ListaAlunosAdapter(
     private val listaAlunos: List<Aluno>,
     private val context: Context
-) :
-    RecyclerView.Adapter<ViewHolder>() {
+) : RecyclerView.Adapter<ViewHolder>() {
     private lateinit var binding: ItemListaAlunosBinding
 
     /**
@@ -22,9 +21,7 @@ class ListaAlunosAdapter(
      * (custom ViewHolder).
      */
 
-    class ViewHolder(view: View) : RecyclerView.ViewHolder(view) {
-
-    }
+    class ViewHolder(view: View) : RecyclerView.ViewHolder(view)
 
     // Create new views (invoked by the layout manager
     override fun onCreateViewHolder(
