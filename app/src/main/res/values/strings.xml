@@ -1,7 +1,5 @@
 <resources>
-    <string name="app_name">PitagorasMVVM</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">Pitagoras MVVM</string>
     <string name="lista_de_alunos">Lista de Alunos</string>
     <string name="ra">RA: %1$s</string>
     <string name="aluno_a">Aluno(a): %1$s</string>
