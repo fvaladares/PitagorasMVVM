@@ -44,5 +44,20 @@ object AlunoAPiMock {
             nome = "Thamara",
             email = "thamara@gmail.com"
         ),
+        Aluno(
+            ra = "12382",
+            nome = "Leonardo De Paula",
+            email = "ldp@gmail.com"
+        ),
+        Aluno(
+            ra = "123823",
+            nome = "Fabricio Valadares",
+            email = "thamara@gmail.com"
+        ),
+        Aluno(
+            ra = "12381",
+            nome = "Android",
+            email = "Android@gmail.com"
+        ),
     )
 }
